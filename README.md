@@ -26,7 +26,7 @@ Welcome to my repository! Here, you’ll find a collection of advanced **crypto 
 | **Sniper Bots**         | Pumpfun Sniper Bot                                   | Basic sniper bot                             | [Repo](https://github.com/black-rustx/PumpFun-Sniper-Bot)                   |
 |                         | Pumpfun Sniper Bot v1                                | Geyser-enhanced WebSocket sniper bot         | [Repo](https://github.com/black-rustx/PumpFun-Sniper-Bot-v1)                |
 |                         | Pumpfun Sniper Bot v2                                | Advanced sniper with Yellowstone support     | [Repo](https://github.com/black-rustx/PumpFun-Sniper-Bot-v2)                |
-|                         | Telegram Raydium Sniper Bot                                   | Solana sniper bot using logs                 | [Repo](https://github.com/black-rustx/Tg-Raydium-Sniper-Bot)                |
+|                         | Telegram Raydium Sniper Bot                          | Solana sniper bot using logs                 | [Repo](https://github.com/black-rustx/Tg-Raydium-Sniper-Bot)                |
 |                         | Raydium Sniper Bot v1                                | Enhanced sniper bot with WebSocket           | [Repo](https://github.com/black-rustx/Raydium-Sniper-Bot-v1)                |
 | **Bundlers**            | Pumpfun Bundler                                      | Multi-wallet bundler                         | [Repo](https://github.com/black-rustx/PumpFun-Bundler)                      |
 |                         | Raydium Bundler                                      | 21+ wallet bundler for Raydium               | [Repo](https://github.com/black-rustx/Raydium-Bundler)                      |
