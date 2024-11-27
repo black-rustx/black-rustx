@@ -86,16 +86,7 @@ Find and execute profitable arbitrage opportunities.
 
 ---
 
-## ✨ **Features**  
-- 🚀 **Real-time Trading**: Stay ahead of the market with millisecond precision.  
-- 🔒 **Secure**: Designed with best practices to keep your funds safe.  
-- 📈 **Optimized**: High-performance bots for seamless operations.  
-
----
-
 ### 👨‍💻 **Connect with Me**  
 Let’s collaborate or discuss ideas!  
 
-🌐 **[My Portfolio](https://your-portfolio-link)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/your-profile)**  
-🐦 **[Twitter](https://twitter.com/your-handle)**  
+💼 **[@g0drlc](https://t.me/g0drlc)**  
